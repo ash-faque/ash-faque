@@ -1,15 +1,10 @@
 
-![me](./favicon.ico)
+👋 Hi, I’m Ashfaque P P
 
-#  *Hey*
+👀 I’m interested in most of the things
 
+🌱 I’m currently trying on learning new things
 
-Am Ashfaque P P
+💞️ I’m looking to collaborate with your things
 
-
-A mechanical engineering graduate
-
-This REPO contains the files for
-
-
-[My portfolio website](http://ash-faque.github.io)
+📫 Mail me at ashfaqueppbtr@gmail.com
